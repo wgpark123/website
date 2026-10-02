@@ -40,7 +40,9 @@ The current archive was generated from the original `index.html`. For a new item
 },
 ```
 
-Available categories are `books`, `articles`, `chapters`, `blogs`, `presentations`, `projects`, and `working`.
+To show an item under **Recent publications** on the front page, add `"featured": true` to its entry. Remove that line to take it off the front page; it stays on the Publications page either way.
+
+Available categories are `books`, `articles`, `chapters`, `blogs`, `data`, `presentations`, `projects`, and `working`.
 
 ## Before publishing
 

@@ -2,20 +2,31 @@ window.WGP_RESEARCH = {
   "generatedFrom": "Walter G. Park legacy research page",
   "entries": [
     {
+      "category": "data",
+      "categoryLabel": "Data",
+      "year": null,
+      "html": "<a href=\"assets/documents/patent index1960 - 2015 rev.xlsx\" target=\"_blank\">International Patent Protection Index, 1960-2015</a> (Excel). Overall index and its components: coverage, membership in international treaties, loss of rights, duration, and enforcement.",
+      "search": "international patent protection index 1960-2015 data excel coverage membership loss of rights duration enforcement",
+      "order": 0,
+      "featured": true
+    },
+    {
       "category": "books",
       "categoryLabel": "Books",
       "year": 2024,
       "html": "<em>Handbook of Innovation and Intellectual Property Rights: Evolving Scholarship and Reflections</em> (ed.), Edward Elgar Publishing, 2024. <a href=\"assets/documents/Handbook Intro.pdf\" target=\"_blank\">Introduction</a> and <a href=\"https://www.youtube.com/watch?v=O4kRYOt8UsU\" target=\"_blank\" rel=\"noopener noreferrer\">Short Video</a>",
       "search": "handbook of innovation and intellectual property rights: evolving scholarship and reflections (ed.), edward elgar publishing, 2024. introduction and short video",
-      "order": 0
+      "order": 0,
+      "featured": true
     },
     {
       "category": "books",
       "categoryLabel": "Books",
-      "year": null,
-      "html": "<em>Economics of Intellectual Property and R&D: An International Perspective</em>, Economics and Policy (LNEP) Series, World Scientific Publishing, in progress.",
-      "search": "economics of intellectual property and r&d: an international perspective , economics and policy (lnep) series, world scientific publishing, in progress.",
-      "order": 1
+      "year": 2025,
+      "html": "<a href=\"https://www.worldscientific.com/worldscibooks/10.1142/14670\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Economics of Intellectual Property and R&D: An International Approach</em></a>, World Scientific Lecture Notes in Economics and Policy, World Scientific Publishing, 2025.",
+      "search": "economics of intellectual property and r&d: an international approach, world scientific lecture notes in economics and policy, world scientific publishing, 2025",
+      "order": 1,
+      "featured": true
     },
     {
       "category": "articles",
@@ -23,7 +34,8 @@ window.WGP_RESEARCH = {
       "year": 2022,
       "html": "<a href=\"assets/documents/ECIN_2022.pdf\" target=\"_blank\"> All Rights Reserved: Copyright Protection and Multinational Knowledge Transfers</a>, <em> Economic Inquiry</em>, Vol. 60, No. 3, 2022, pp. 1064 - 1091. [Co-author: Olena Ivus]",
       "search": "all rights reserved: copyright protection and multinational knowledge transfers , economic inquiry , vol. 60, no. 3, 2022, pp. 1064 - 1091. [co-author: olena ivus]",
-      "order": 0
+      "order": 0,
+      "featured": true
     },
     {
       "category": "articles",
@@ -31,7 +43,8 @@ window.WGP_RESEARCH = {
       "year": 2021,
       "html": "<a href=\"assets/documents/Export_qlty.pdf\" target=\"_blank\"> Export Quality and Patent Protection: Stage-Dependent Effects in Development</a>, <em> Review of Development Economics</em>, Vol. 25, No. 2, 2021, pp. 601 - 629. [Co-authors: Yan Liu and Dahai Fu]",
       "search": "export quality and patent protection: stage-dependent effects in development , review of development economics , vol. 25, no. 2, 2021, pp. 601 - 629. [co-authors: yan liu and dahai fu]",
-      "order": 1
+      "order": 1,
+      "featured": true
     },
     {
       "category": "articles",
@@ -375,7 +388,8 @@ window.WGP_RESEARCH = {
       "year": 2022,
       "html": "<a href=\"assets/documents/innov_covid_19.pdf\" target=\"_blank\"> Immunity to the COVID-19 Shock? The case of U.S. innovation</a>, in Carsten Fink et al. (eds.),<em> Resilience and Ingenuity: Global Innovation Responses to Covid-19</em>, Center for Economic Policy Research (CEPR), U.K., 2022. [Co-authors: Andrew Toole, Gerard Torres, Richard Miller]",
       "search": "immunity to the covid-19 shock? the case of u.s. innovation , in carsten fink et al. (eds.), resilience and ingenuity: global innovation responses to covid-19 , center for economic policy research (cepr), u.k., 2022. [co-authors: andrew toole, gerard torres, richard miller]",
-      "order": 0
+      "order": 0,
+      "featured": true
     },
     {
       "category": "chapters",

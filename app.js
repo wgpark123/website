@@ -4,7 +4,7 @@
   const navLinks = [...document.querySelectorAll("nav a")];
   const menuButton = document.querySelector(".menu-button");
   const nav = document.querySelector("nav");
-  const publicationCategories = new Set(["books", "articles", "chapters", "blogs"]);
+  const publicationCategories = new Set(["books", "articles", "chapters", "blogs", "data"]);
   let publicationFilter = "all";
 
   const escapeYear = (year) => year || "Other";
@@ -74,12 +74,11 @@
   }
 
   const featured = data
-    .filter((entry) => ["books", "articles", "chapters"].includes(entry.category) && entry.year)
-    .sort((a, b) => b.year - a.year || a.order - b.order)
-    .slice(0, 4);
+    .filter((entry) => entry.featured)
+    .sort((a, b) => (b.year || 0) - (a.year || 0) || a.order - b.order);
   document.getElementById("featured-list").innerHTML = featured.map((entry) => `
     <article class="featured-card">
-      <span class="year">${entry.categoryLabel} · ${entry.year}</span>
+      <span class="year">${entry.categoryLabel}${entry.year ? ` · ${entry.year}` : ""}</span>
       <p>${entry.html}</p>
     </article>`).join("");
 
