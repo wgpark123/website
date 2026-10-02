@@ -73,12 +73,13 @@
     window.scrollTo(0, 0);
   }
 
+  const featuredLabels = { books: "Book", articles: "Article", chapters: "Book Chapter", data: "DATA" };
   const featured = data
     .filter((entry) => entry.featured)
     .sort((a, b) => (b.year || 0) - (a.year || 0) || a.order - b.order);
   document.getElementById("featured-list").innerHTML = featured.map((entry) => `
     <article class="featured-card">
-      <span class="year">${entry.categoryLabel}${entry.year ? ` · ${entry.year}` : ""}</span>
+      <span class="year">${featuredLabels[entry.category] || entry.categoryLabel}${entry.year ? ` · ${entry.year}` : ""}</span>
       <p>${entry.html}</p>
     </article>`).join("");
 

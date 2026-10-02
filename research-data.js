@@ -14,7 +14,7 @@ window.WGP_RESEARCH = {
       "category": "books",
       "categoryLabel": "Books",
       "year": 2024,
-      "html": "<em>Handbook of Innovation and Intellectual Property Rights: Evolving Scholarship and Reflections</em> (ed.), Edward Elgar Publishing, 2024. <a href=\"assets/documents/Handbook Intro.pdf\" target=\"_blank\">Introduction</a> and <a href=\"https://www.youtube.com/watch?v=O4kRYOt8UsU\" target=\"_blank\" rel=\"noopener noreferrer\">Short Video</a>",
+      "html": "<a href=\"https://www.elgaronline.com/edcollbook/book/9781800880627/9781800880627.xml\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Handbook of Innovation and Intellectual Property Rights: Evolving Scholarship and Reflections</em></a> (ed.), Edward Elgar Publishing, 2024. <a href=\"assets/documents/Handbook Intro.pdf\" target=\"_blank\">Introduction</a> and <a href=\"https://www.youtube.com/watch?v=O4kRYOt8UsU\" target=\"_blank\" rel=\"noopener noreferrer\">Short Video</a>",
       "search": "handbook of innovation and intellectual property rights: evolving scholarship and reflections (ed.), edward elgar publishing, 2024. introduction and short video",
       "order": 0,
       "featured": true
@@ -22,9 +22,9 @@ window.WGP_RESEARCH = {
     {
       "category": "books",
       "categoryLabel": "Books",
-      "year": 2025,
-      "html": "<a href=\"https://www.worldscientific.com/worldscibooks/10.1142/14670\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Economics of Intellectual Property and R&D: An International Approach</em></a>, World Scientific Lecture Notes in Economics and Policy, World Scientific Publishing, 2025.",
-      "search": "economics of intellectual property and r&d: an international approach, world scientific lecture notes in economics and policy, world scientific publishing, 2025",
+      "year": 2026,
+      "html": "<a href=\"https://www.worldscientific.com/worldscibooks/10.1142/14670\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Economics of Intellectual Property and R&D: An International Approach</em></a>, World Scientific Lecture Notes in Economics and Policy, World Scientific Publishing, 2026.",
+      "search": "economics of intellectual property and r&d: an international approach, world scientific lecture notes in economics and policy, world scientific publishing, 2026",
       "order": 1,
       "featured": true
     },
