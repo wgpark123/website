@@ -586,10 +586,42 @@ window.WGP_RESEARCH = {
     {
       "category": "presentations",
       "categoryLabel": "Presentations",
+      "year": 2026,
+      "html": "<em>Merchants of AI: Are They Overvalued?</em>, July 2026 <a href=\"assets/documents/AI_Tech_Bubble.pdf\" target=\"_blank\">Slides</a>",
+      "search": "merchants of ai: are they overvalued?, july 2026 slides",
+      "order": 0
+    },
+    {
+      "category": "presentations",
+      "categoryLabel": "Presentations",
+      "year": 2025,
+      "html": "<em>Flowers for Algorithms: Is There an AI Tech Bubble?</em>, Bhopal and Indore, India, December 2025 <a href=\"assets/documents/Bhopal_Indore_AI_Combined.pdf\" target=\"_blank\">Slides</a>",
+      "search": "flowers for algorithms: is there an ai tech bubble?, bhopal and indore, india, december 2025 slides",
+      "order": 1
+    },
+    {
+      "category": "presentations",
+      "categoryLabel": "Presentations",
+      "year": 2025,
+      "html": "<em>Drugs: The Good, the Bad, &amp; the Ugly</em>, Workshop on Advancing Healthcare Development in India: Integrating Pharmaceuticals and IPRs for Global Competitiveness, Bhopal, India, January 10, 2025 <a href=\"assets/documents/DRUGS.pdf\" target=\"_blank\">Slides</a>",
+      "search": "drugs: the good, the bad, & the ugly, workshop on advancing healthcare development in india: integrating pharmaceuticals and iprs for global competitiveness, bhopal, india, january 10, 2025 slides",
+      "order": 2
+    },
+    {
+      "category": "presentations",
+      "categoryLabel": "Presentations",
+      "year": 2024,
+      "html": "<em>Real Options in Patenting: Role of Secondary Patent Markets</em>, April 2024 <a href=\"assets/documents/SGE.pdf\" target=\"_blank\">Slides</a>",
+      "search": "real options in patenting: role of secondary patent markets, april 2024 slides",
+      "order": 3
+    },
+    {
+      "category": "presentations",
+      "categoryLabel": "Presentations",
       "year": 2023,
       "html": "<em>AI, IPR, and Economic Development: Nascent Relationships</em> Presentation, Workshop on Intellectual Property Perspectives on AI Deployment, Sciences Po, Paris, France, December 11, 2023 <span class=\"file-unavailable\" title=\"This file was not included\">Presentation</span>",
       "search": "ai, ipr, and economic development: nascent relationships presentation, workshop on intellectual property perspectives on ai deployment, sciences po, paris, france, december 11, 2023 presentation",
-      "order": 0
+      "order": 1
     },
     {
       "category": "presentations",
@@ -597,31 +629,31 @@ window.WGP_RESEARCH = {
       "year": 2023,
       "html": "<em>Intellectual Property Rights, Innovation, and Economic Development</em>, Lecture Series, Global Initiative of Academic Networks, Indian Institute of Technology (IIT), Indore, November 2023",
       "search": "intellectual property rights, innovation, and economic development , lecture series, global initiative of academic networks, indian institute of technology (iit), indore, november 2023",
-      "order": 1
-    },
-    {
-      "category": "presentations",
-      "categoryLabel": "Presentations",
-      "year": 2023,
-      "html": "<em>Science, Economics, and Copyrights</em> Keynote Address, 3rd Conference on Technology, R&D, Education, and Economy (TREE) for Africa, Ouagadougou, Burkina Faso, June 1, 2023 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
-      "search": "science, economics, and copyrights keynote address, 3rd conference on technology, r&d, education, and economy (tree) for africa, ouagadougou, burkina faso, june 1, 2023 slides",
       "order": 2
     },
     {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2023,
-      "html": "<em>IP Rights: Real Options in Patenting</em>, Seminar Presenter, Universita Cattolica del Sacro Cuore, Milano, Italy, Webinar, February 22, 2023 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
-      "search": "ip rights: real options in patenting , seminar presenter, universita cattolica del sacro cuore, milano, italy, webinar, february 22, 2023 slides",
+      "html": "<em>Science, Economics, and Copyrights</em> Keynote Address, 3rd Conference on Technology, R&D, Education, and Economy (TREE) for Africa, Ouagadougou, Burkina Faso, June 1, 2023 <a href=\"assets/documents/Science, Economics, and Copyrights.pdf\" target=\"_blank\">Slides</a>",
+      "search": "science, economics, and copyrights keynote address, 3rd conference on technology, r&d, education, and economy (tree) for africa, ouagadougou, burkina faso, june 1, 2023 slides",
       "order": 3
     },
     {
       "category": "presentations",
       "categoryLabel": "Presentations",
-      "year": 2022,
-      "html": "<em> IP Rights: Innovation Under Uncertainty: Role of Secondary Patent Markets</em>, Presenter, India LICs International Conference, organized by the School of Humanities and Social Sciences, IIT Indore, Virtual Conference, December 21, 2022",
-      "search": "ip rights: innovation under uncertainty: role of secondary patent markets , presenter, india lics international conference, organized by the school of humanities and social sciences, iit indore, virtual conference, december 21, 2022",
+      "year": 2023,
+      "html": "<em>IP Rights: Real Options in Patenting</em>, Seminar Presenter, Universita Cattolica del Sacro Cuore, Milano, Italy, Webinar, February 22, 2023 <a href=\"assets/documents/Pat_Second_mkt.pdf\" target=\"_blank\">Slides</a>",
+      "search": "ip rights: real options in patenting , seminar presenter, universita cattolica del sacro cuore, milano, italy, webinar, february 22, 2023 slides",
       "order": 4
+    },
+    {
+      "category": "presentations",
+      "categoryLabel": "Presentations",
+      "year": 2022,
+      "html": "<em> IP Rights: Innovation Under Uncertainty: Role of Secondary Patent Markets</em>, Presenter, India LICs International Conference, organized by the School of Humanities and Social Sciences, IIT Indore, Virtual Conference, December 21, 2022 <a href=\"assets/documents/ILICS_2022.pdf\" target=\"_blank\">Slides</a>",
+      "search": "ip rights: innovation under uncertainty: role of secondary patent markets , presenter, india lics international conference, organized by the school of humanities and social sciences, iit indore, virtual conference, december 21, 2022 slides",
+      "order": 5
     },
     {
       "category": "presentations",
@@ -629,7 +661,7 @@ window.WGP_RESEARCH = {
       "year": 2022,
       "html": "<em> Presentation, Institutional supra-nationalization, substitution, and MultinationalCompanies' IPR strategies</em>, Academy of International Business, U.S. Northeast Chapter Conference, held at Kogod Business School, American University, October 15, 2022",
       "search": "presentation, institutional supra-nationalization, substitution, and multinationalcompanies' ipr strategies , academy of international business, u.s. northeast chapter conference, held at kogod business school, american university, october 15, 2022",
-      "order": 5
+      "order": 6
     },
     {
       "category": "presentations",
@@ -637,7 +669,7 @@ window.WGP_RESEARCH = {
       "year": 2022,
       "html": "<em>IP Rights: Measuring Global Protection and Quantifying Economic Loss</em>, Panelist, Sunwater Institute and Berkeley Center for Law and Technology Virtual Conference, January 2022. Speech adapted for <a href=\"https://www.schumpetercircle.com/post/going-forward-with-ip-indexes\" target=\"_blank\" rel=\"noopener noreferrer\"><em>Schumpeter Circle</em> blog</a>",
       "search": "ip rights: measuring global protection and quantifying economic loss , panelist, sunwater institute and berkeley center for law and technology virtual conference, january 2022. speech adapted for schumpeter circle blog",
-      "order": 6
+      "order": 7
     },
     {
       "category": "presentations",
@@ -645,15 +677,15 @@ window.WGP_RESEARCH = {
       "year": 2021,
       "html": "<em>Multinationals, Innovation, and Copyright Protection</em>, Presenter and Discussant, Western Economics Association International Virtual Conference, June 29, 2021",
       "search": "multinationals, innovation, and copyright protection , presenter and discussant, western economics association international virtual conference, june 29, 2021",
-      "order": 7
+      "order": 8
     },
     {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2021,
-      "html": "<em>Hands-on Training: Research Methods in Intellectual Property Rights</em>, Lecturer, co-organized by Gujurat National Law University, Cochin University of Science and Technology, & Inter Univ. Center for IPR, Webinar, June 12, 2021",
-      "search": "hands-on training: research methods in intellectual property rights , lecturer, co-organized by gujurat national law university, cochin university of science and technology, & inter univ. center for ipr, webinar, june 12, 2021",
-      "order": 8
+      "html": "<em>Hands-on Training: Research Methods in Intellectual Property Rights</em>, Lecturer, co-organized by Gujurat National Law University, Cochin University of Science and Technology, & Inter Univ. Center for IPR, Webinar, June 12, 2021 <a href=\"assets/documents/GNLU Workshop.pdf\" target=\"_blank\">Slides</a>",
+      "search": "hands-on training: research methods in intellectual property rights , lecturer, co-organized by gujurat national law university, cochin university of science and technology, & inter univ. center for ipr, webinar, june 12, 2021 slides",
+      "order": 9
     },
     {
       "category": "presentations",
@@ -661,7 +693,7 @@ window.WGP_RESEARCH = {
       "year": 2021,
       "html": "<em>Production Linkages</em>, Discussant, Washington Area International Trade Symposium, Webinar, April 29, 2021",
       "search": "production linkages , discussant, washington area international trade symposium, webinar, april 29, 2021",
-      "order": 9
+      "order": 10
     },
     {
       "category": "presentations",
@@ -669,7 +701,7 @@ window.WGP_RESEARCH = {
       "year": 2021,
       "html": "<em>Trademark and patent protection</em>, Presenter, World IP Conference, World Intellectual Property Organization, Webinar, April 26, 2021",
       "search": "trademark and patent protection , presenter, world ip conference, world intellectual property organization, webinar, april 26, 2021",
-      "order": 10
+      "order": 11
     },
     {
       "category": "presentations",
@@ -677,7 +709,7 @@ window.WGP_RESEARCH = {
       "year": 2021,
       "html": "<em>Creative Works: How they Matter</em>, Keynote Speaker, Industry Academia Collaborations, Department of Higher Education, Government of Madhya Pradesh, in collaboration with the World Bank, Webinar, January 2021",
       "search": "creative works: how they matter , keynote speaker, industry academia collaborations, department of higher education, government of madhya pradesh, in collaboration with the world bank, webinar, january 2021",
-      "order": 11
+      "order": 12
     },
     {
       "category": "presentations",
@@ -685,7 +717,7 @@ window.WGP_RESEARCH = {
       "year": 2020,
       "html": "<em>Patent Licensing Webinar Series: Recognizing the Growing Economic Impact of Patent Licensing</em>, Panelist, Session 3: Effects of Global Licensing,\" Innovation Alliance, September 2020",
       "search": "patent licensing webinar series: recognizing the growing economic impact of patent licensing , panelist, session 3: effects of global licensing,\" innovation alliance, september 2020",
-      "order": 12
+      "order": 13
     },
     {
       "category": "presentations",
@@ -693,7 +725,7 @@ window.WGP_RESEARCH = {
       "year": 2019,
       "html": "<em>Patent Valuation and Traditional Knowledge</em>, Presenter and Co-Organizer, 2nd Conference on Technology, R&D, Education, and Economy (TREE) for Africa, Korhogo, Ivory Coast, April 2019",
       "search": "patent valuation and traditional knowledge , presenter and co-organizer, 2nd conference on technology, r&d, education, and economy (tree) for africa, korhogo, ivory coast, april 2019",
-      "order": 13
+      "order": 14
     },
     {
       "category": "presentations",
@@ -701,7 +733,7 @@ window.WGP_RESEARCH = {
       "year": 2018,
       "html": "<em>Methodological Challenges in Measuring the Impact of FTAs on Access to Medicines</em>, Panelist, 5th Global Congress on IP and the Public Interest, Washington College of Law (WCL), Wash D.C., September 2018",
       "search": "methodological challenges in measuring the impact of ftas on access to medicines , panelist, 5th global congress on ip and the public interest, washington college of law (wcl), wash d.c., september 2018",
-      "order": 14
+      "order": 15
     },
     {
       "category": "presentations",
@@ -709,7 +741,7 @@ window.WGP_RESEARCH = {
       "year": 2018,
       "html": "<em>Empirical Work on Copyrights: Review</em>, Presenter, Korean Copyright Commission, Jinju, S. Korea, July 2018",
       "search": "empirical work on copyrights: review , presenter, korean copyright commission, jinju, s. korea, july 2018",
-      "order": 15
+      "order": 16
     },
     {
       "category": "presentations",
@@ -717,7 +749,7 @@ window.WGP_RESEARCH = {
       "year": 2018,
       "html": "<em>Analyzing Policy Debates</em>, Panelist, Pharmaceutical Research and Manufacturers of America (PhRMA) Meeting of the Global IP Committee, Washington, D.C., April 2018",
       "search": "analyzing policy debates , panelist, pharmaceutical research and manufacturers of america (phrma) meeting of the global ip committee, washington, d.c., april 2018",
-      "order": 16
+      "order": 17
     },
     {
       "category": "presentations",
@@ -725,7 +757,7 @@ window.WGP_RESEARCH = {
       "year": 2018,
       "html": "<em>Innovation, Creativity, and Intellectual Property Rights</em>, Conference on Technology, R&D, Education, and Economy (TREE) for Africa, Abidjan, Ivory Coast, March 2018 <a href=\"assets/documents/TREE_Slides_Park.pdf\" target=\"_blank\">Slides</a>",
       "search": "innovation, creativity, and intellectual property rights , conference on technology, r&d, education, and economy (tree) for africa, abidjan, ivory coast, march 2018 slides",
-      "order": 17
+      "order": 18
     },
     {
       "category": "presentations",
@@ -733,7 +765,7 @@ window.WGP_RESEARCH = {
       "year": 2017,
       "html": "<em>Technology Transfers and the Global Copyright Industry</em>, Dalian Minzu University, China, October 2017 <a href=\"assets/documents/Dalian_Slides.pdf\" target=\"_blank\">Slides</a>",
       "search": "technology transfers and the global copyright industry , dalian minzu university, china, october 2017 slides",
-      "order": 18
+      "order": 19
     },
     {
       "category": "presentations",
@@ -741,7 +773,7 @@ window.WGP_RESEARCH = {
       "year": 2017,
       "html": "<em>Intellectual Property Market Impacts</em>, U.S. Patent and Trademark Office, Alexandria VA, Discussant, September 2017 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "intellectual property market impacts , u.s. patent and trademark office, alexandria va, discussant, september 2017 slides",
-      "order": 19
+      "order": 20
     },
     {
       "category": "presentations",
@@ -749,7 +781,7 @@ window.WGP_RESEARCH = {
       "year": 2017,
       "html": "<em>Sectoral Impacts of Fair Use/Fair Dealing</em>, Universidade Federal do Rio de Janiero, Brazil, April 2017 <a href=\"assets/documents/Rio 2017.pdf\" target=\"_blank\">Slides</a>",
       "search": "sectoral impacts of fair use/fair dealing , universidade federal do rio de janiero, brazil, april 2017 slides",
-      "order": 20
+      "order": 21
     },
     {
       "category": "presentations",
@@ -757,7 +789,7 @@ window.WGP_RESEARCH = {
       "year": 2016,
       "html": "<em>Intellectual Property Rights and International Economic Development</em>, Lecture Series, Global Initiative of Academic Networks, Indian Institute of Technology (IIT), Indore, December 2016",
       "search": "intellectual property rights and international economic development , lecture series, global initiative of academic networks, indian institute of technology (iit), indore, december 2016",
-      "order": 21
+      "order": 22
     },
     {
       "category": "presentations",
@@ -765,7 +797,7 @@ window.WGP_RESEARCH = {
       "year": 2016,
       "html": "<em>Intellectual Property and Developing Economies</em>, Fall Conference, Center for the Protection of Intellectual Property, George Mason University, October 2016 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "intellectual property and developing economies , fall conference, center for the protection of intellectual property, george mason university, october 2016 slides",
-      "order": 22
+      "order": 23
     },
     {
       "category": "presentations",
@@ -773,7 +805,7 @@ window.WGP_RESEARCH = {
       "year": 2016,
       "html": "<em>Multinational Investments, Technology Transfers, and Copyright Protection</em>, Conference Presentation, Western Economic Association, Lipsey Panel, Portland, Oregon, July 2016 <a href=\"assets/documents/WEAI PP_Slides.pdf\" target=\"_blank\">Slides</a>",
       "search": "multinational investments, technology transfers, and copyright protection , conference presentation, western economic association, lipsey panel, portland, oregon, july 2016 slides",
-      "order": 23
+      "order": 24
     },
     {
       "category": "presentations",
@@ -781,7 +813,7 @@ window.WGP_RESEARCH = {
       "year": 2016,
       "html": "<em>Transpacific Partnership (TPP) Agreement and Pharmaceutical Protections</em>, Panelist, Cato Institute, Washington D.C., June 2016 <a href=\"assets/documents/CATO Presentation TPP.pdf\" target=\"_blank\">Slides</a> <a href=\"http://www.cato.org/events/tpp-pharmaceutical-protections-too-strong-too-weak-or-just-right\" target=\"_blank\" rel=\"noopener noreferrer\">Event</a>",
       "search": "transpacific partnership (tpp) agreement and pharmaceutical protections , panelist, cato institute, washington d.c., june 2016 slides event",
-      "order": 24
+      "order": 25
     },
     {
       "category": "presentations",
@@ -789,7 +821,7 @@ window.WGP_RESEARCH = {
       "year": 2016,
       "html": "<em>Role of Licensing in Trade, Investment, and Technology Transfer</em>, Panelist, USPTO-CPIP Conference on Economic Importance of Patent Licensing, U.S. Patent & Trademark Office and George Mason Law School Center for the Protection of Intellectual Property, Alexandria, VA, June 2016 <a href=\"assets/documents/WGPark USPTO CIPP.pdf\" target=\"_blank\">Slides</a>",
       "search": "role of licensing in trade, investment, and technology transfer , panelist, uspto-cpip conference on economic importance of patent licensing, u.s. patent & trademark office and george mason law school center for the protection of intellectual property, alexandria, va, june 2016 slides",
-      "order": 25
+      "order": 26
     },
     {
       "category": "presentations",
@@ -797,7 +829,7 @@ window.WGP_RESEARCH = {
       "year": 2016,
       "html": "<em>Patent Protection and the Industrial Composition of Multinational Activity -- New Measure of Complexity</em>, Conference Presentation, Eastern Economic Association, Washington D.C., February 2016 <a href=\"assets/documents/EEA_Feb2016_presentation.pdf\" target=\"_blank\">Slides</a>",
       "search": "patent protection and the industrial composition of multinational activity -- new measure of complexity , conference presentation, eastern economic association, washington d.c., february 2016 slides",
-      "order": 26
+      "order": 27
     },
     {
       "category": "presentations",
@@ -805,7 +837,7 @@ window.WGP_RESEARCH = {
       "year": 2015,
       "html": "<em>Global Copyright Policies and U.S. Multinational Investments</em>, Seminar, Vanderbilt University, Department of Economics, GPED, December 2015 <a href=\"assets/documents/Vanderbilt_GPED.pdf\" target=\"_blank\">Slides</a>",
       "search": "global copyright policies and u.s. multinational investments , seminar, vanderbilt university, department of economics, gped, december 2015 slides",
-      "order": 27
+      "order": 28
     },
     {
       "category": "presentations",
@@ -813,7 +845,7 @@ window.WGP_RESEARCH = {
       "year": 2015,
       "html": "<em>Business Cycles and Patenting</em>, Presentation, Asia Pacific Conference on Economics and Business, Singapore, November 2015 <a href=\"assets/documents/ACEB Conference Park.pdf\" target=\"_blank\">Slides</a>",
       "search": "business cycles and patenting , presentation, asia pacific conference on economics and business, singapore, november 2015 slides",
-      "order": 28
+      "order": 29
     },
     {
       "category": "presentations",
@@ -821,7 +853,7 @@ window.WGP_RESEARCH = {
       "year": 2015,
       "html": "<em>Patent Protection and the Industrial Composition of Multinational Activity</em>, Distinguished Speaker Series, Industry Canada, Ottawa, Ontario, October 2015 <a href=\"assets/documents/Ottawa Oct_2015.pdf\" target=\"_blank\">Slides</a>",
       "search": "patent protection and the industrial composition of multinational activity , distinguished speaker series, industry canada, ottawa, ontario, october 2015 slides",
-      "order": 29
+      "order": 30
     },
     {
       "category": "presentations",
@@ -829,7 +861,7 @@ window.WGP_RESEARCH = {
       "year": 2015,
       "html": "<em>Roundtable on Voluntary Initiatives in Copyright Enforcement</em>, Center for the Protection of Intellectual Property, George Mason University, October 2015",
       "search": "roundtable on voluntary initiatives in copyright enforcement , center for the protection of intellectual property, george mason university, october 2015",
-      "order": 30
+      "order": 31
     },
     {
       "category": "presentations",
@@ -837,7 +869,7 @@ window.WGP_RESEARCH = {
       "year": 2015,
       "html": "<em>Usage of Information from Business Cycles in Forecasting Patent Filings</em>, IP5 Statistical Working Group Meeting, Alexandria, VA, Aug 2015",
       "search": "usage of information from business cycles in forecasting patent filings , ip5 statistical working group meeting, alexandria, va, aug 2015",
-      "order": 31
+      "order": 32
     },
     {
       "category": "presentations",
@@ -845,7 +877,7 @@ window.WGP_RESEARCH = {
       "year": 2015,
       "html": "<em>Speaker on Global Copyright Issues</em>, Tusher Center for Management of Intellectual Capital, University of California, Berkeley, July 2015 <a href=\"assets/documents/Global copyright market.pdf\" target=\"_blank\">Slides</a>",
       "search": "speaker on global copyright issues , tusher center for management of intellectual capital, university of california, berkeley, july 2015 slides",
-      "order": 32
+      "order": 33
     },
     {
       "category": "presentations",
@@ -853,7 +885,7 @@ window.WGP_RESEARCH = {
       "year": 2015,
       "html": "<em>Patent Protection, Industry Complexity, and International Licensing</em>, Seminar, Bureau of Economic Analysis, U.S. Department of Commerce, Washington, D.C., May 2015",
       "search": "patent protection, industry complexity, and international licensing , seminar, bureau of economic analysis, u.s. department of commerce, washington, d.c., may 2015",
-      "order": 33
+      "order": 34
     },
     {
       "category": "presentations",
@@ -861,7 +893,7 @@ window.WGP_RESEARCH = {
       "year": 2015,
       "html": "<em>World Intellectual Property Organization (WIPO) Expert Forum on Technology Transfer</em>, Geneva, Switzerland, February 2015 <a href=\"assets/documents/Discussion_MaskusSaggi.pdf\" target=\"_blank\">Slides 1</a> <a href=\"assets/documents/Discussion_Musungu.pdf\" target=\"_blank\">Slides 2</a>",
       "search": "world intellectual property organization (wipo) expert forum on technology transfer , geneva, switzerland, february 2015 slides 1 slides 2",
-      "order": 34
+      "order": 35
     },
     {
       "category": "presentations",
@@ -869,7 +901,7 @@ window.WGP_RESEARCH = {
       "year": 2014,
       "html": "Discussant for <em>Boosting Pharmaceutical Innovation in the Developing World (by Dr. Burju Kilic)</em> Washington College of Law, American University, November 2014",
       "search": "discussant for boosting pharmaceutical innovation in the developing world (by dr. burju kilic) washington college of law, american university, november 2014",
-      "order": 35
+      "order": 36
     },
     {
       "category": "presentations",
@@ -877,7 +909,7 @@ window.WGP_RESEARCH = {
       "year": 2014,
       "html": "<em>Copyrights and Economic Development</em> Presentation at the Academic Advisory Council Meeting, Motion Picture Association of America, Washington, D.C., November 2014 <a href=\"assets/documents/MPAA Nov_2014 Park.pdf\" target=\"_blank\">Slides</a>",
       "search": "copyrights and economic development presentation at the academic advisory council meeting, motion picture association of america, washington, d.c., november 2014 slides",
-      "order": 36
+      "order": 37
     },
     {
       "category": "presentations",
@@ -885,7 +917,7 @@ window.WGP_RESEARCH = {
       "year": 2014,
       "html": "<em>Size and Composition of Patent Families, and Valuation</em> Seminar at the U.S. Patent and Trademark Office (USPTO), Department of Commerce, Alexandria, VA, October 2014 <a href=\"assets/documents/Oct28_2014_uspto.pdf\" target=\"_blank\">Slides</a>",
       "search": "size and composition of patent families, and valuation seminar at the u.s. patent and trademark office (uspto), department of commerce, alexandria, va, october 2014 slides",
-      "order": 37
+      "order": 38
     },
     {
       "category": "presentations",
@@ -893,7 +925,7 @@ window.WGP_RESEARCH = {
       "year": 2014,
       "html": "<em>Copyrights and User Rights: Theory, Evidence, and Issues</em> Seminar at Copyright User's Rights Index and Econometric Research: Study Design Workshop, Washington College of Law, American University, June 2014 <a href=\"assets/documents/Copyrights and User Rights.pdf\" target=\"_blank\">Slides</a>",
       "search": "copyrights and user rights: theory, evidence, and issues seminar at copyright user's rights index and econometric research: study design workshop, washington college of law, american university, june 2014 slides",
-      "order": 38
+      "order": 39
     },
     {
       "category": "presentations",
@@ -901,7 +933,7 @@ window.WGP_RESEARCH = {
       "year": 2014,
       "html": "<em>Economics of Intellectual Property</em> Lecture at the Inter-American Development Bank, Washington, D.C., May 2014 <a href=\"assets/documents/IDB Presentation 2014.pdf\" target=\"_blank\">Slides</a>",
       "search": "economics of intellectual property lecture at the inter-american development bank, washington, d.c., may 2014 slides",
-      "order": 39
+      "order": 40
     },
     {
       "category": "presentations",
@@ -909,7 +941,7 @@ window.WGP_RESEARCH = {
       "year": 2014,
       "html": "<em>Europe Beyond Aid</em> Presentation at International Center for Trade and Sustainable Development, Geneva, Switzerland, March 2014 <a href=\"assets/documents/Europe2014 version final.pdf\" target=\"_blank\">Slides</a>",
       "search": "europe beyond aid presentation at international center for trade and sustainable development, geneva, switzerland, march 2014 slides",
-      "order": 40
+      "order": 41
     },
     {
       "category": "presentations",
@@ -917,7 +949,7 @@ window.WGP_RESEARCH = {
       "year": 2014,
       "html": "<em>Technology Transfer, Intellectual Property, and Developing Nations</em> Guest speaker, Development Seminar, Georgetown University, School of Foreign Service, March 2014",
       "search": "technology transfer, intellectual property, and developing nations guest speaker, development seminar, georgetown university, school of foreign service, march 2014",
-      "order": 41
+      "order": 42
     },
     {
       "category": "presentations",
@@ -925,7 +957,7 @@ window.WGP_RESEARCH = {
       "year": 2013,
       "html": "<em>International Licensing of Copyrighted Works</em> Presentation at Open AIR Conference, Cape Town, South Africa, December 2013 <a href=\"assets/documents/Presentation_CapeTown.pdf\" target=\"_blank\">Slides</a>",
       "search": "international licensing of copyrighted works presentation at open air conference, cape town, south africa, december 2013 slides",
-      "order": 42
+      "order": 43
     },
     {
       "category": "presentations",
@@ -933,7 +965,7 @@ window.WGP_RESEARCH = {
       "year": 2013,
       "html": "<em>Intellectual Property Rights and International Technology Transfer</em> Lecture at Center for Intellectual Property Research, Jiangsu University, China, November 2013 <a href=\"assets/documents/Presentation Jiangsu.pdf\" target=\"_blank\">Slides</a>",
       "search": "intellectual property rights and international technology transfer lecture at center for intellectual property research, jiangsu university, china, november 2013 slides",
-      "order": 43
+      "order": 44
     },
     {
       "category": "presentations",
@@ -941,7 +973,7 @@ window.WGP_RESEARCH = {
       "year": 2013,
       "html": "<em>Economic Research Design</em>, Conference on Law and Economics of Copyright User's Rights, Program on Information Justice and Intellectual Property, American University Washington College of Law, Washington, D.C., September 2013 <a href=\"assets/documents/EconMethods.pdf\" target=\"_blank\">Slides</a>",
       "search": "economic research design , conference on law and economics of copyright user's rights, program on information justice and intellectual property, american university washington college of law, washington, d.c., september 2013 slides",
-      "order": 44
+      "order": 45
     },
     {
       "category": "presentations",
@@ -949,7 +981,7 @@ window.WGP_RESEARCH = {
       "year": 2013,
       "html": "<em>Patent reform in global and regional free trade agreements</em>, Development Seminar, School of Foreign Service, Georgetown University, Washington, D.C., March 2013 <a href=\"assets/documents/Presentation GT.pdf\" target=\"_blank\">Slides</a>",
       "search": "patent reform in global and regional free trade agreements , development seminar, school of foreign service, georgetown university, washington, d.c., march 2013 slides",
-      "order": 45
+      "order": 46
     },
     {
       "category": "presentations",
@@ -957,7 +989,7 @@ window.WGP_RESEARCH = {
       "year": 2012,
       "html": "<em>Perspectives on Intellectual Property Rights and Economic Development</em>, Intellectual Property, Trade and Development, co-hosted by Washington College of Law, American University and Public Citizen, Washington, D.C., October 2012",
       "search": "perspectives on intellectual property rights and economic development , intellectual property, trade and development, co-hosted by washington college of law, american university and public citizen, washington, d.c., october 2012",
-      "order": 46
+      "order": 47
     },
     {
       "category": "presentations",
@@ -965,7 +997,7 @@ window.WGP_RESEARCH = {
       "year": 2012,
       "html": "<em>Can IP Reform Promote Economic Well-Being?</em> Trans-Atlantic Consumer Dialogue Meetings, U.S. Department of State, Washington, D.C., Plenary Session, June 2012",
       "search": "can ip reform promote economic well-being? trans-atlantic consumer dialogue meetings, u.s. department of state, washington, d.c., plenary session, june 2012",
-      "order": 47
+      "order": 48
     },
     {
       "category": "presentations",
@@ -973,7 +1005,7 @@ window.WGP_RESEARCH = {
       "year": 2012,
       "html": "<em>Trips-Plus Provisions in Free-Trade Agreements (FTAs)</em>, Trans-Pacific Partnership Meetings, Dallas, TX, luncheon hosted by Public Citizen, May 2012 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "trips-plus provisions in free-trade agreements (ftas) , trans-pacific partnership meetings, dallas, tx, luncheon hosted by public citizen, may 2012 slides",
-      "order": 48
+      "order": 49
     },
     {
       "category": "presentations",
@@ -981,7 +1013,7 @@ window.WGP_RESEARCH = {
       "year": 2012,
       "html": "<em>U.S.-European Union Convergence in Patent Law</em>, Transatlantic Summit, Washington, D.C., panel organized by Science Business and the Federal Circuit Bar Association, May 2012",
       "search": "u.s.-european union convergence in patent law , transatlantic summit, washington, d.c., panel organized by science business and the federal circuit bar association, may 2012",
-      "order": 49
+      "order": 50
     },
     {
       "category": "presentations",
@@ -989,7 +1021,7 @@ window.WGP_RESEARCH = {
       "year": 2011,
       "html": "<em>International Technology Transfer and Innovation</em>, Conference on the Knowledge Economy and Role of Intellectual Property Rights, Cairo, Egypt, co-sponsored by the Egyptian Ministry of Higher Education and Scientific Research and World Intellectual Property Organization, November 2011 <span class=\"file-unavailable\" title=\"This file was not included\">Slides 1</span> <span class=\"file-unavailable\" title=\"This file was not included\">Slides 2</span>",
       "search": "international technology transfer and innovation , conference on the knowledge economy and role of intellectual property rights, cairo, egypt, co-sponsored by the egyptian ministry of higher education and scientific research and world intellectual property organization, november 2011 slides 1 slides 2",
-      "order": 50
+      "order": 51
     },
     {
       "category": "presentations",
@@ -997,7 +1029,7 @@ window.WGP_RESEARCH = {
       "year": 2011,
       "html": "<em>Perspectives on the America Invents Act (AIA)</em>, Panel organized by the Brookings Institution, Washington, D.C., September 2011",
       "search": "perspectives on the america invents act (aia) , panel organized by the brookings institution, washington, d.c., september 2011",
-      "order": 51
+      "order": 52
     },
     {
       "category": "presentations",
@@ -1005,7 +1037,7 @@ window.WGP_RESEARCH = {
       "year": 2011,
       "html": "<em>Exports and Licensing: Impact of Patent Rights</em>, Science and Technology Policy Institute, Seoul, Korea, August 2011 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "exports and licensing: impact of patent rights , science and technology policy institute, seoul, korea, august 2011 slides",
-      "order": 52
+      "order": 53
     },
     {
       "category": "presentations",
@@ -1013,7 +1045,7 @@ window.WGP_RESEARCH = {
       "year": 2010,
       "html": "<em>Intellectual Property Rights (IPRs) and China</em>, U.S. International Trade Commission, Washington, D.C., November 2010 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "intellectual property rights (iprs) and china , u.s. international trade commission, washington, d.c., november 2010 slides",
-      "order": 53
+      "order": 54
     },
     {
       "category": "presentations",
@@ -1021,7 +1053,7 @@ window.WGP_RESEARCH = {
       "year": 2010,
       "html": "<em>International Offshoring of R&D</em>, American Society for Competitiveness, Vienna, Virginia, October 2010 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "international offshoring of r&d , american society for competitiveness, vienna, virginia, october 2010 slides",
-      "order": 54
+      "order": 55
     },
     {
       "category": "presentations",
@@ -1029,7 +1061,7 @@ window.WGP_RESEARCH = {
       "year": 2010,
       "html": "<em>Korean Model of Development</em>, Panel organized by the Korean Economic Association and Korean Association for Political Science, Washington, D.C., June 2010",
       "search": "korean model of development , panel organized by the korean economic association and korean association for political science, washington, d.c., june 2010",
-      "order": 55
+      "order": 56
     },
     {
       "category": "presentations",
@@ -1037,7 +1069,7 @@ window.WGP_RESEARCH = {
       "year": 2010,
       "html": "<em>North-South Innovation</em>, Inonu University, Malatya, Turkey, April 2010 <a href=\"assets/documents/Intl Innov IPRs.pdf\" target=\"_blank\">Slides</a>",
       "search": "north-south innovation , inonu university, malatya, turkey, april 2010 slides",
-      "order": 56
+      "order": 57
     },
     {
       "category": "presentations",
@@ -1045,7 +1077,7 @@ window.WGP_RESEARCH = {
       "year": 2010,
       "html": "<em>Technology Transfer and Intellectual Property Rights</em>, Conference on Intellectual Property Rights and Economic Development, Korea Development Institute, Seoul, Korea, February 2010 <a href=\"assets/documents/Tech transfer Intl IPRs.pdf\" target=\"_blank\">Slides</a>",
       "search": "technology transfer and intellectual property rights , conference on intellectual property rights and economic development, korea development institute, seoul, korea, february 2010 slides",
-      "order": 57
+      "order": 58
     },
     {
       "category": "presentations",
@@ -1053,7 +1085,7 @@ window.WGP_RESEARCH = {
       "year": 2007,
       "html": "<em>IPRs and Economic Development</em>, Conference on Entrepreneurship, National Innovation Strategy, Organization for Economic Cooperation and Development (OECD), Paris, France, November 2007 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "iprs and economic development , conference on entrepreneurship, national innovation strategy, organization for economic cooperation and development (oecd), paris, france, november 2007 slides",
-      "order": 58
+      "order": 59
     },
     {
       "category": "presentations",
@@ -1061,7 +1093,7 @@ window.WGP_RESEARCH = {
       "year": 2007,
       "html": "<em>Trilateral Patent Statistics</em>, U.S. Patent and Trademark Office (USPTO) Trilateral Meeting, Working Group on Patent Statistics, Washington, D.C., August 2007",
       "search": "trilateral patent statistics , u.s. patent and trademark office (uspto) trilateral meeting, working group on patent statistics, washington, d.c., august 2007",
-      "order": 59
+      "order": 60
     },
     {
       "category": "presentations",
@@ -1069,7 +1101,7 @@ window.WGP_RESEARCH = {
       "year": 2006,
       "html": "<em>Global Intellectual Property Reform</em>, Panel organized by Center for Strategic and International Studies (CSIS), Washington, D.C., September 2006",
       "search": "global intellectual property reform , panel organized by center for strategic and international studies (csis), washington, d.c., september 2006",
-      "order": 60
+      "order": 61
     },
     {
       "category": "presentations",
@@ -1077,7 +1109,7 @@ window.WGP_RESEARCH = {
       "year": 2005,
       "html": "<em>Open Source and Biotechnology</em>, Center for Intellectual Property Policy (CIPP) Workshop, Florence, Italy, October 2005 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "open source and biotechnology , center for intellectual property policy (cipp) workshop, florence, italy, october 2005 slides",
-      "order": 61
+      "order": 62
     },
     {
       "category": "presentations",
@@ -1085,7 +1117,7 @@ window.WGP_RESEARCH = {
       "year": 2005,
       "html": "<em>International Technology Transfer and Intellectual Property Rights</em>, Association of University Technology Managers (AUTM) Annual Meeting, Annapolis, MD, Plenary Session, June 2005 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
       "search": "international technology transfer and intellectual property rights , association of university technology managers (autm) annual meeting, annapolis, md, plenary session, june 2005 slides",
-      "order": 62
+      "order": 63
     },
     {
       "category": "presentations",
@@ -1093,7 +1125,7 @@ window.WGP_RESEARCH = {
       "year": 2004,
       "html": "<em>International Patenting Models and Forecasts of Filings at the EPO</em>, European Patent Office Seminar, Munich Germany, December 2004 <span class=\"file-unavailable\" title=\"This file was not included\">Handout</span>",
       "search": "international patenting models and forecasts of filings at the epo , european patent office seminar, munich germany, december 2004 handout",
-      "order": 63
+      "order": 64
     },
     {
       "category": "presentations",
@@ -1101,7 +1133,7 @@ window.WGP_RESEARCH = {
       "year": 2003,
       "html": "<em>Trade, Foreign Direct Investment, and Intellectual Property Rights</em>, Economic Research Service, U.S. Department of Agriculture, Seminar, May 2003",
       "search": "trade, foreign direct investment, and intellectual property rights , economic research service, u.s. department of agriculture, seminar, may 2003",
-      "order": 64
+      "order": 65
     },
     {
       "category": "presentations",
@@ -1109,7 +1141,7 @@ window.WGP_RESEARCH = {
       "year": 2003,
       "html": "<em>Recent Developments in the World Trade Organization�s Trade Related Intellectual Property Rights Agreement</em>, Panel organized by Center for Globalization, Yale University, New Haven, CT, April 2003",
       "search": "recent developments in the world trade organization�s trade related intellectual property rights agreement , panel organized by center for globalization, yale university, new haven, ct, april 2003",
-      "order": 65
+      "order": 66
     },
     {
       "category": "presentations",
@@ -1117,7 +1149,7 @@ window.WGP_RESEARCH = {
       "year": 2002,
       "html": "<em>R&D Policy and Institutions in Latin America</em>, Latin American Econometrics Society (LAMES) Conference, Sao Paolo, Brazil, July 2002",
       "search": "r&d policy and institutions in latin america , latin american econometrics society (lames) conference, sao paolo, brazil, july 2002",
-      "order": 66
+      "order": 67
     },
     {
       "category": "presentations",
@@ -1125,7 +1157,7 @@ window.WGP_RESEARCH = {
       "year": 2002,
       "html": "<em>Global Intellectual Property Rights and Impacts</em>, World Bank Annual Bank Conference on Development Economics, Washington, D.C., April 2002",
       "search": "global intellectual property rights and impacts , world bank annual bank conference on development economics, washington, d.c., april 2002",
-      "order": 67
+      "order": 68
     },
     {
       "category": "presentations",
@@ -1133,7 +1165,7 @@ window.WGP_RESEARCH = {
       "year": 2001,
       "html": "<em>R&D, Spillovers, and Intellectual Property Rights</em>, Economic Freedom of the World Network (EFW) Conference, San Francisco, CA, October 2001",
       "search": "r&d, spillovers, and intellectual property rights , economic freedom of the world network (efw) conference, san francisco, ca, october 2001",
-      "order": 68
+      "order": 69
     },
     {
       "category": "presentations",
@@ -1141,7 +1173,7 @@ window.WGP_RESEARCH = {
       "year": 2001,
       "html": "<em>Intellectual Property Rights, R&D, and Productivity Growth</em>, Conference co-sponsored by Industry Canada and the University of Toronto Law School, Toronto, Canada, May 2001",
       "search": "intellectual property rights, r&d, and productivity growth , conference co-sponsored by industry canada and the university of toronto law school, toronto, canada, may 2001",
-      "order": 69
+      "order": 70
     },
     {
       "category": "presentations",
@@ -1149,7 +1181,7 @@ window.WGP_RESEARCH = {
       "year": 2001,
       "html": "<em>TRIPS (Trade-Related Intellectual Property Rights Agreement) and Developing Countries</em>, Panel organized by the International Intellectual Property Institute (IIPI), Washington, D.C., February 2001",
       "search": "trips (trade-related intellectual property rights agreement) and developing countries , panel organized by the international intellectual property institute (iipi), washington, d.c., february 2001",
-      "order": 70
+      "order": 71
     },
     {
       "category": "presentations",
@@ -1157,7 +1189,7 @@ window.WGP_RESEARCH = {
       "year": 2001,
       "html": "<em>Human Genome Project and Patenting</em>, Panel organized by the Global Intellectual Property Project (GLIPP), School of International Service (SIS), American University, February 2001",
       "search": "human genome project and patenting , panel organized by the global intellectual property project (glipp), school of international service (sis), american university, february 2001",
-      "order": 71
+      "order": 72
     },
     {
       "category": "presentations",
@@ -1165,7 +1197,7 @@ window.WGP_RESEARCH = {
       "year": 2000,
       "html": "<em>New Economy and Internet Patenting</em>, Chartered Institute of Patent Agents Conference, London, U.K., November 2000",
       "search": "new economy and internet patenting , chartered institute of patent agents conference, london, u.k., november 2000",
-      "order": 72
+      "order": 73
     },
     {
       "category": "presentations",
@@ -1173,7 +1205,7 @@ window.WGP_RESEARCH = {
       "year": 2000,
       "html": "<em>International Intellectual Property Rights and Technology Gaps</em>, Office of Harmonization for the Internal Market (OHIM) Conference, Alicante, Spain, March 2000",
       "search": "international intellectual property rights and technology gaps , office of harmonization for the internal market (ohim) conference, alicante, spain, march 2000",
-      "order": 73
+      "order": 74
     },
     {
       "category": "presentations",
@@ -1181,7 +1213,7 @@ window.WGP_RESEARCH = {
       "year": 1999,
       "html": "<em>Are Patent Policies Trade-Related?</em> Free Trade Areas of the Americas (FTAA) Meetings, Toronto, Canada, Session organized by the Fraser Institute, November 1999",
       "search": "are patent policies trade-related? free trade areas of the americas (ftaa) meetings, toronto, canada, session organized by the fraser institute, november 1999",
-      "order": 74
+      "order": 75
     },
     {
       "category": "presentations",
@@ -1189,7 +1221,7 @@ window.WGP_RESEARCH = {
       "year": 1999,
       "html": "<em>Global Patenting Costs</em>, Symposium co-hosted by the American Intellectual Property Law Association and International Federation of Intellectual Property Attorneys, Hague, Netherlands, July 1999",
       "search": "global patenting costs , symposium co-hosted by the american intellectual property law association and international federation of intellectual property attorneys, hague, netherlands, july 1999",
-      "order": 75
+      "order": 76
     },
     {
       "category": "presentations",
@@ -1197,7 +1229,7 @@ window.WGP_RESEARCH = {
       "year": 1999,
       "html": "<em>Intellectual Property Rights and Technology Diffusion</em>, Conference on Law and Markets: Part I, co-hosted by the Instituto Libertad y Desarollo and the Fraser Institute, Santiago, Chile, April 1999",
       "search": "intellectual property rights and technology diffusion , conference on law and markets: part i, co-hosted by the instituto libertad y desarollo and the fraser institute, santiago, chile, april 1999",
-      "order": 76
+      "order": 77
     },
     {
       "category": "presentations",
@@ -1205,7 +1237,7 @@ window.WGP_RESEARCH = {
       "year": 1999,
       "html": "<em>Patent Rights and Productivity in Latin America</em>, Conference on Law and Markets: Part II, co-hosted by the Fundacion Republica and the Fraser Institute, Buenos Aires, Argentina, April 1999",
       "search": "patent rights and productivity in latin america , conference on law and markets: part ii, co-hosted by the fundacion republica and the fraser institute, buenos aires, argentina, april 1999",
-      "order": 77
+      "order": 78
     },
     {
       "category": "projects",
@@ -1352,6 +1384,6 @@ window.WGP_RESEARCH = {
       "order": 8
     }
   ],
-  "documentCount": 99,
-  "unavailableLinkCount": 27
+  "documentCount": 107,
+  "unavailableLinkCount": 25
 };
