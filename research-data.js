@@ -395,8 +395,8 @@ window.WGP_RESEARCH = {
       "category": "chapters",
       "categoryLabel": "Book Chapters",
       "year": 2021,
-      "html": "<a href=\"assets/documents/Trademarks and Patent Index 2021.pdf\" target=\"_blank\"> International Trademark and Patent Indexes</a>, in Sary Levy-Carciente and Lorenzo Montarnari (eds.),<em> International Property Rights Index 2021</em>, Property Rights Alliance, Washington D.C., 2021. [Co-author: Chrysa Kazakou]",
-      "search": "international trademark and patent indexes , in sary levy-carciente and lorenzo montarnari (eds.), international property rights index 2021 , property rights alliance, washington d.c., 2021. [co-author: chrysa kazakou]",
+      "html": "<a href=\"assets/documents/Trademarks and Patent Index 2021.pdf\" target=\"_blank\"> International Trademark and Patent Indexes</a>, in Sary Levy-Carciente and Lorenzo Montanari (eds.),<em> International Property Rights Index 2021</em>, Property Rights Alliance, Washington D.C., 2021. [Co-author: Chrysa Kazakou]",
+      "search": "international trademark and patent indexes , in sary levy-carciente and lorenzo montanari (eds.), international property rights index 2021 , property rights alliance, washington d.c., 2021. [co-author: chrysa kazakou]",
       "order": 1
     },
     {
@@ -467,8 +467,8 @@ window.WGP_RESEARCH = {
       "category": "chapters",
       "categoryLabel": "Book Chapters",
       "year": 2007,
-      "html": "<a href=\"assets/documents/Park 2008 Innov Dynamics.pdf\" target=\"_blank\"> Innovation and Economic Dynamics</a>, in Wei-Bin Zhang (ed.),<em> Mathematical Models in Economics: Encylopedia of Life Support Sciences</em>, UNESCO, United Nations, 2007.",
-      "search": "innovation and economic dynamics , in wei-bin zhang (ed.), mathematical models in economics: encylopedia of life support sciences , unesco, united nations, 2007.",
+      "html": "<a href=\"assets/documents/Park 2008 Innov Dynamics.pdf\" target=\"_blank\"> Innovation and Economic Dynamics</a>, in Wei-Bin Zhang (ed.),<em> Mathematical Models in Economics: Encyclopedia of Life Support Sciences</em>, UNESCO, United Nations, 2007.",
+      "search": "innovation and economic dynamics , in wei-bin zhang (ed.), mathematical models in economics: encyclopedia of life support sciences , unesco, united nations, 2007.",
       "order": 10
     },
     {
@@ -659,8 +659,8 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2022,
-      "html": "<em> Presentation, Institutional supra-nationalization, substitution, and MultinationalCompanies' IPR strategies</em>, Academy of International Business, U.S. Northeast Chapter Conference, held at Kogod Business School, American University, October 15, 2022",
-      "search": "presentation, institutional supra-nationalization, substitution, and multinationalcompanies' ipr strategies , academy of international business, u.s. northeast chapter conference, held at kogod business school, american university, october 15, 2022",
+      "html": "<em>Institutional supra-nationalization, substitution, and Multinational Companies' IPR strategies</em>, Presentation, Academy of International Business, U.S. Northeast Chapter Conference, held at Kogod Business School, American University, October 15, 2022",
+      "search": "presentation, institutional supra-nationalization, substitution, and multinationalcompanies' ipr strategies , presentation, academy of international business, u.s. northeast chapter conference, held at kogod business school, american university, october 15, 2022",
       "order": 6
     },
     {
@@ -683,8 +683,8 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2021,
-      "html": "<em>Hands-on Training: Research Methods in Intellectual Property Rights</em>, Lecturer, co-organized by Gujurat National Law University, Cochin University of Science and Technology, & Inter Univ. Center for IPR, Webinar, June 12, 2021 <a href=\"assets/documents/GNLU Workshop.pdf\" target=\"_blank\">Slides</a>",
-      "search": "hands-on training: research methods in intellectual property rights , lecturer, co-organized by gujurat national law university, cochin university of science and technology, & inter univ. center for ipr, webinar, june 12, 2021 slides",
+      "html": "<em>Hands-on Training: Research Methods in Intellectual Property Rights</em>, Lecturer, co-organized by Gujarat National Law University, Cochin University of Science and Technology, & Inter Univ. Center for IPR, Webinar, June 12, 2021 <a href=\"assets/documents/GNLU Workshop.pdf\" target=\"_blank\">Slides</a>",
+      "search": "hands-on training: research methods in intellectual property rights , lecturer, co-organized by gujarat national law university, cochin university of science and technology, & inter univ. center for ipr, webinar, june 12, 2021 slides",
       "order": 9
     },
     {
@@ -779,8 +779,8 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2017,
-      "html": "<em>Sectoral Impacts of Fair Use/Fair Dealing</em>, Universidade Federal do Rio de Janiero, Brazil, April 2017 <a href=\"assets/documents/Rio 2017.pdf\" target=\"_blank\">Slides</a>",
-      "search": "sectoral impacts of fair use/fair dealing , universidade federal do rio de janiero, brazil, april 2017 slides",
+      "html": "<em>Sectoral Impacts of Fair Use/Fair Dealing</em>, Universidade Federal do Rio de Janeiro, Brazil, April 2017 <a href=\"assets/documents/Rio 2017.pdf\" target=\"_blank\">Slides</a>",
+      "search": "sectoral impacts of fair use/fair dealing , universidade federal do rio de janeiro, brazil, april 2017 slides",
       "order": 21
     },
     {
@@ -1139,16 +1139,16 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2003,
-      "html": "<em>Recent Developments in the World Trade Organization�s Trade Related Intellectual Property Rights Agreement</em>, Panel organized by Center for Globalization, Yale University, New Haven, CT, April 2003",
-      "search": "recent developments in the world trade organization�s trade related intellectual property rights agreement , panel organized by center for globalization, yale university, new haven, ct, april 2003",
+      "html": "<em>Recent Developments in the World Trade Organization's Trade Related Intellectual Property Rights Agreement</em>, Panel organized by Center for Globalization, Yale University, New Haven, CT, April 2003",
+      "search": "recent developments in the world trade organization's trade related intellectual property rights agreement , panel organized by center for globalization, yale university, new haven, ct, april 2003",
       "order": 66
     },
     {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2002,
-      "html": "<em>R&D Policy and Institutions in Latin America</em>, Latin American Econometrics Society (LAMES) Conference, Sao Paolo, Brazil, July 2002",
-      "search": "r&d policy and institutions in latin america , latin american econometrics society (lames) conference, sao paolo, brazil, july 2002",
+      "html": "<em>R&D Policy and Institutions in Latin America</em>, Latin American Econometrics Society (LAMES) Conference, São Paulo, Brazil, July 2002",
+      "search": "r&d policy and institutions in latin america , latin american econometrics society (lames) conference, são paulo, brazil, july 2002",
       "order": 67
     },
     {
@@ -1227,8 +1227,8 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 1999,
-      "html": "<em>Intellectual Property Rights and Technology Diffusion</em>, Conference on Law and Markets: Part I, co-hosted by the Instituto Libertad y Desarollo and the Fraser Institute, Santiago, Chile, April 1999",
-      "search": "intellectual property rights and technology diffusion , conference on law and markets: part i, co-hosted by the instituto libertad y desarollo and the fraser institute, santiago, chile, april 1999",
+      "html": "<em>Intellectual Property Rights and Technology Diffusion</em>, Conference on Law and Markets: Part I, co-hosted by the Instituto Libertad y Desarrollo and the Fraser Institute, Santiago, Chile, April 1999",
+      "search": "intellectual property rights and technology diffusion , conference on law and markets: part i, co-hosted by the instituto libertad y desarrollo and the fraser institute, santiago, chile, april 1999",
       "order": 77
     },
     {
