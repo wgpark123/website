@@ -50,7 +50,7 @@ window.WGP_RESEARCH = {
       "category": "articles",
       "categoryLabel": "Articles",
       "year": 2021,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> Technological Innovations and Market Power: A Study of the Indian Pharmaceutical Industry</span>, <em> Millennial Asia</em>, Vol. 12, No. 1, 2021, pp. 5 - 34. [Co-authors: Madan Dhanora and Ruchi Sharma]",
+      "html": "<a href=\"assets/documents/MillenAsia.pdf\" target=\"_blank\"> Technological Innovations and Market Power: A Study of the Indian Pharmaceutical Industry</a>, <em> Millennial Asia</em>, Vol. 12, No. 1, 2021, pp. 5 - 34. [Co-authors: Madan Dhanora and Ruchi Sharma]",
       "search": "technological innovations and market power: a study of the indian pharmaceutical industry , millennial asia , vol. 12, no. 1, 2021, pp. 5 - 34. [co-authors: madan dhanora and ruchi sharma]",
       "order": 2
     },
@@ -587,16 +587,16 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2026,
-      "html": "<em>Merchants of AI: Are They Overvalued?</em>, July 2026 <a href=\"assets/documents/AI_Tech_Bubble.pdf\" target=\"_blank\">Slides</a>",
-      "search": "merchants of ai: are they overvalued?, july 2026 slides",
+      "html": "<em>Merchants of AI: Are They Overvalued?</em> Presentation at the AU Kogod Business AI Research Conference, Washington, D.C., February 19, 2026. Revised for the AEA Summer Program, June 20, 2026. <a href=\"assets/documents/AI_Tech_Bubble.pdf\" target=\"_blank\">Slides</a>",
+      "search": "merchants of ai: are they overvalued? presentation at the au kogod business ai research conference, washington, d.c., february 19, 2026. revised for the aea summer program, june 20, 2026. slides",
       "order": 0
     },
     {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2025,
-      "html": "<em>Flowers for Algorithms: Is There an AI Tech Bubble?</em>, Bhopal and Indore, India, December 2025 <a href=\"assets/documents/Bhopal_Indore_AI_Combined.pdf\" target=\"_blank\">Slides</a>",
-      "search": "flowers for algorithms: is there an ai tech bubble?, bhopal and indore, india, december 2025 slides",
+      "html": "<em>Flowers for Algorithms: Is There an AI Tech Bubble?</em> Special Lecture, International Conference on Innovation Systems, Technology and Policy for Development, MANIT, Bhopal, India, December 23, 2025 <a href=\"assets/documents/Bhopal_Indore_AI_Combined.pdf\" target=\"_blank\">Slides</a>",
+      "search": "flowers for algorithms: is there an ai tech bubble? special lecture, international conference on innovation systems, technology and policy for development, manit, bhopal, india, december 23, 2025 slides",
       "order": 1
     },
     {
@@ -619,17 +619,9 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2023,
-      "html": "<em>AI, IPR, and Economic Development: Nascent Relationships</em> Presentation, Workshop on Intellectual Property Perspectives on AI Deployment, Sciences Po, Paris, France, December 11, 2023 <span class=\"file-unavailable\" title=\"This file was not included\">Presentation</span>",
+      "html": "<em>AI, IPR, and Economic Development: Nascent Relationships</em> Presentation, Workshop on Intellectual Property Perspectives on AI Deployment, Sciences Po, Paris, France, December 11, 2023 <a href=\"assets/documents/AI, IPR, and Economic Development.pdf\" target=\"_blank\">Presentation</a>",
       "search": "ai, ipr, and economic development: nascent relationships presentation, workshop on intellectual property perspectives on ai deployment, sciences po, paris, france, december 11, 2023 presentation",
       "order": 1
-    },
-    {
-      "category": "presentations",
-      "categoryLabel": "Presentations",
-      "year": 2023,
-      "html": "<em>Intellectual Property Rights, Innovation, and Economic Development</em>, Lecture Series, Global Initiative of Academic Networks, Indian Institute of Technology (IIT), Indore, November 2023",
-      "search": "intellectual property rights, innovation, and economic development , lecture series, global initiative of academic networks, indian institute of technology (iit), indore, november 2023",
-      "order": 2
     },
     {
       "category": "presentations",
@@ -651,8 +643,8 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2022,
-      "html": "<em> IP Rights: Innovation Under Uncertainty: Role of Secondary Patent Markets</em>, Presenter, India LICs International Conference, organized by the School of Humanities and Social Sciences, IIT Indore, Virtual Conference, December 21, 2022 <a href=\"assets/documents/ILICS_2022.pdf\" target=\"_blank\">Slides</a>",
-      "search": "ip rights: innovation under uncertainty: role of secondary patent markets , presenter, india lics international conference, organized by the school of humanities and social sciences, iit indore, virtual conference, december 21, 2022 slides",
+      "html": "<em> IP Rights: Innovation Under Uncertainty: Role of Secondary Patent Markets</em>, Presenter, India LICs International Conference, organized by the School of Humanities and Social Sciences, IIT Indore, Virtual Conference, December 22, 2022 <a href=\"assets/documents/ILICS_2022.pdf\" target=\"_blank\">Slides</a>",
+      "search": "ip rights: innovation under uncertainty: role of secondary patent markets , presenter, india lics international conference, organized by the school of humanities and social sciences, iit indore, virtual conference, december 22, 2022 slides",
       "order": 5
     },
     {
@@ -782,14 +774,6 @@ window.WGP_RESEARCH = {
       "html": "<em>Sectoral Impacts of Fair Use/Fair Dealing</em>, Universidade Federal do Rio de Janeiro, Brazil, April 2017 <a href=\"assets/documents/Rio 2017.pdf\" target=\"_blank\">Slides</a>",
       "search": "sectoral impacts of fair use/fair dealing , universidade federal do rio de janeiro, brazil, april 2017 slides",
       "order": 21
-    },
-    {
-      "category": "presentations",
-      "categoryLabel": "Presentations",
-      "year": 2016,
-      "html": "<em>Intellectual Property Rights and International Economic Development</em>, Lecture Series, Global Initiative of Academic Networks, Indian Institute of Technology (IIT), Indore, December 2016",
-      "search": "intellectual property rights and international economic development , lecture series, global initiative of academic networks, indian institute of technology (iit), indore, december 2016",
-      "order": 22
     },
     {
       "category": "presentations",
@@ -1384,6 +1368,6 @@ window.WGP_RESEARCH = {
       "order": 8
     }
   ],
-  "documentCount": 107,
-  "unavailableLinkCount": 25
+  "documentCount": 109,
+  "unavailableLinkCount": 23
 };
