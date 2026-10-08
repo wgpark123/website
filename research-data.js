@@ -154,7 +154,7 @@ window.WGP_RESEARCH = {
       "category": "articles",
       "categoryLabel": "Articles",
       "year": 2013,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> International Patenting, Technology Gaps, and Patent Rights</span>, <em> Review of Economics and Institutions</em>, Vol. 4, No. 1, Winter 2013, Article 3.",
+      "html": "<a href=\"assets/documents/rei2013.pdf\" target=\"_blank\"> International Patenting, Technology Gaps, and Patent Rights</a>, <em> Review of Economics and Institutions</em>, Vol. 4, No. 1, Winter 2013, Article 3.",
       "search": "international patenting, technology gaps, and patent rights , review of economics and institutions , vol. 4, no. 1, winter 2013, article 3.",
       "order": 15
     },
@@ -162,7 +162,7 @@ window.WGP_RESEARCH = {
       "category": "articles",
       "categoryLabel": "Articles",
       "year": 2012,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> On a Dynamic Panel Analysis of RD and Mergers</span>, <em> International Journal of Applied Research in Business Administration and Economics</em>, Vol. 1, Issue 3, July 2012, pp. 21 - 36. [Co-author: Ralph Sonenshine]",
+      "html": "<a href=\"assets/documents/IJAE BAE Park Sonenshine.pdf\" target=\"_blank\"> On a Dynamic Panel Analysis of RD and Mergers</a>, <em> International Journal of Applied Research in Business Administration and Economics</em>, Vol. 1, Issue 3, July 2012, pp. 21 - 36. [Co-author: Ralph Sonenshine]",
       "search": "on a dynamic panel analysis of rd and mergers , international journal of applied research in business administration and economics , vol. 1, issue 3, july 2012, pp. 21 - 36. [co-author: ralph sonenshine]",
       "order": 16
     },
@@ -202,7 +202,7 @@ window.WGP_RESEARCH = {
       "category": "articles",
       "categoryLabel": "Articles",
       "year": 2010,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> On Patenting Costs</span>, <em> The WIPO Journal: Analysis of Intellectual Property Issues</em>, Vol. 2, Issue 1, 2010, pp. 38 - 48.",
+      "html": "<a href=\"assets/documents/2010_2_WIPO_Issue_1_Park.pdf\" target=\"_blank\"> On Patenting Costs</a>, <em> The WIPO Journal: Analysis of Intellectual Property Issues</em>, Vol. 2, Issue 1, 2010, pp. 38 - 48.",
       "search": "on patenting costs , the wipo journal: analysis of intellectual property issues , vol. 2, issue 1, 2010, pp. 38 - 48.",
       "order": 21
     },
@@ -242,7 +242,7 @@ window.WGP_RESEARCH = {
       "category": "articles",
       "categoryLabel": "Articles",
       "year": 2003,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> The Impact of Trade-Related Intellectual Property Rights on Trade and Foreign Direct Investment in Developing Countries</span>, <em> OECD Papers: Special Issue on Trade Policy</em>, Vol. 3, No. 11/294, 2003. [Co-author: Douglas Lippoldt]",
+      "html": "<a href=\"assets/documents/TD-TC-WP-2003-42-final.pdf\" target=\"_blank\"> The Impact of Trade-Related Intellectual Property Rights on Trade and Foreign Direct Investment in Developing Countries</a>, <em> OECD Papers: Special Issue on Trade Policy</em>, Vol. 3, No. 11/294, 2003. [Co-author: Douglas Lippoldt]",
       "search": "the impact of trade-related intellectual property rights on trade and foreign direct investment in developing countries , oecd papers: special issue on trade policy , vol. 3, no. 11/294, 2003. [co-author: douglas lippoldt]",
       "order": 26
     },
@@ -266,7 +266,7 @@ window.WGP_RESEARCH = {
       "category": "articles",
       "categoryLabel": "Articles",
       "year": 1999,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> Measuring Global Patent Protection</span>, <em> Fraser Forum</em>, Fraser Institute, Vancouver, B.C., March 1999, pp. 4 - 7.",
+      "html": "<a href=\"assets/documents/Measuring Global PP.pdf\" target=\"_blank\"> Measuring Global Patent Protection</a>, <em> Fraser Forum</em>, Fraser Institute, Vancouver, B.C., March 1999, pp. 4 - 7.",
       "search": "measuring global patent protection , fraser forum , fraser institute, vancouver, b.c., march 1999, pp. 4 - 7.",
       "order": 29
     },
@@ -426,9 +426,9 @@ window.WGP_RESEARCH = {
     {
       "category": "chapters",
       "categoryLabel": "Book Chapters",
-      "year": null,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> Technology Transfer and the Economic Implications of the Strengthening of Intellectual Property Rights in Developing Countries</span>, in Bronwyn Hall, Sanghoon Ahn, and Keun Lee (eds.),<em> Intellectual Property Rights for Economic Development</em>, Edward Elgar Publishers, pp. 33 - 89. [Co-author: Douglas Lippoldt]",
-      "search": "technology transfer and the economic implications of the strengthening of intellectual property rights in developing countries , in bronwyn hall, sanghoon ahn, and keun lee (eds.), intellectual property rights for economic development , edward elgar publishers, pp. 33 - 89. [co-author: douglas lippoldt]",
+      "year": 2014,
+      "html": "<a href=\"assets/documents/park_lippoldt08.pdf\" target=\"_blank\"> Technology Transfer and the Economic Implications of the Strengthening of Intellectual Property Rights in Developing Countries</a>, in Bronwyn Hall, Sanghoon Ahn, and Keun Lee (eds.),<em> Intellectual Property Rights for Economic Development</em>, Edward Elgar Publishers, 2014, pp. 33 - 89. [Co-author: Douglas Lippoldt]",
+      "search": "technology transfer and the economic implications of the strengthening of intellectual property rights in developing countries , in bronwyn hall, sanghoon ahn, and keun lee (eds.), intellectual property rights for economic development , edward elgar publishers, 2014, pp. 33 - 89. [co-author: douglas lippoldt]",
       "order": 5
     },
     {
@@ -499,7 +499,7 @@ window.WGP_RESEARCH = {
       "category": "chapters",
       "categoryLabel": "Book Chapters",
       "year": 2004,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> On Intellectual Property Rights: Patents vs. Free and Open Development</span>, in Enrico Colombatto (ed.),<em> The Elgar Companion to Property Rights</em>, Edward Elgar Publishers, 2004, pp. 383 - 413. [Co-author: Alan Isaac]",
+      "html": "<a href=\"assets/documents/18 Econs Property Rights.pdf\" target=\"_blank\"> On Intellectual Property Rights: Patents vs. Free and Open Development</a>, in Enrico Colombatto (ed.),<em> The Elgar Companion to Property Rights</em>, Edward Elgar Publishers, 2004, pp. 383 - 413. [Co-author: Alan Isaac]",
       "search": "on intellectual property rights: patents vs. free and open development , in enrico colombatto (ed.), the elgar companion to property rights , edward elgar publishers, 2004, pp. 383 - 413. [co-author: alan isaac]",
       "order": 14
     },
@@ -515,7 +515,7 @@ window.WGP_RESEARCH = {
       "category": "chapters",
       "categoryLabel": "Book Chapters",
       "year": 2002,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> Index of Patent Rights, 2000 Update</span>, in James Gwartney and Robert Lawson (eds.),<em> Economic Freedom of the World Annual Report 2002</em>, Chapter 2, Fraser Institute, Vancouver, B.C., pp. 33 - 42. [Co-author: Smita Wagh]",
+      "html": "<a href=\"assets/documents/2EFWch2.pdf\" target=\"_blank\"> Index of Patent Rights, 2000 Update</a>, in James Gwartney and Robert Lawson (eds.),<em> Economic Freedom of the World Annual Report 2002</em>, Chapter 2, Fraser Institute, Vancouver, B.C., pp. 33 - 42. [Co-author: Smita Wagh]",
       "search": "index of patent rights, 2000 update , in james gwartney and robert lawson (eds.), economic freedom of the world annual report 2002 , chapter 2, fraser institute, vancouver, b.c., pp. 33 - 42. [co-author: smita wagh]",
       "order": 16
     },
@@ -539,7 +539,7 @@ window.WGP_RESEARCH = {
       "category": "chapters",
       "categoryLabel": "Book Chapters",
       "year": 1999,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> Reducing Global Patenting Costs</span>, in American Intellectual Property Law Association (ed.),<em> Fourth International Symposium on Patent Cost Containment,</em>, AIPLA, Washington, D.C., July, 1999.",
+      "html": "<a href=\"assets/documents/CostContain.pdf\" target=\"_blank\"> Reducing Global Patenting Costs</a>, in American Intellectual Property Law Association (ed.),<em> Fourth International Symposium on Patent Cost Containment,</em>, AIPLA, Washington, D.C., July, 1999.",
       "search": "reducing global patenting costs , in american intellectual property law association (ed.), fourth international symposium on patent cost containment, , aipla, washington, d.c., july, 1999.",
       "order": 19
     },
@@ -611,8 +611,8 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2024,
-      "html": "<em>Real Options in Patenting: Role of Secondary Patent Markets</em>, April 2024 <a href=\"assets/documents/SGE.pdf\" target=\"_blank\">Slides</a>",
-      "search": "real options in patenting: role of secondary patent markets, april 2024 slides",
+      "html": "<em>Real Options in Patenting: Role of Secondary Patent Markets</em>, Conference of the <em>Society of the Government Economists</em>, Washington, D.C., April 2024 <a href=\"assets/documents/SGE.pdf\" target=\"_blank\">Slides</a>",
+      "search": "real options in patenting: role of secondary patent markets, conference of the society of the government economists, washington, d.c., april 2024 slides",
       "order": 3
     },
     {
@@ -763,7 +763,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2017,
-      "html": "<em>Intellectual Property Market Impacts</em>, U.S. Patent and Trademark Office, Alexandria VA, Discussant, September 2017 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>Intellectual Property Market Impacts</em>, U.S. Patent and Trademark Office, Alexandria VA, Discussant, September 2017 <a href=\"assets/documents/uspto licen discussion.pdf\" target=\"_blank\">Slides</a>",
       "search": "intellectual property market impacts , u.s. patent and trademark office, alexandria va, discussant, september 2017 slides",
       "order": 20
     },
@@ -779,7 +779,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2016,
-      "html": "<em>Intellectual Property and Developing Economies</em>, Fall Conference, Center for the Protection of Intellectual Property, George Mason University, October 2016 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>Intellectual Property and Developing Economies</em>, Fall Conference, Center for the Protection of Intellectual Property, George Mason University, October 2016 <a href=\"assets/documents/Park_IPDev_GMU.pdf\" target=\"_blank\">Slides</a>",
       "search": "intellectual property and developing economies , fall conference, center for the protection of intellectual property, george mason university, october 2016 slides",
       "order": 23
     },
@@ -867,8 +867,8 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2015,
-      "html": "<em>Patent Protection, Industry Complexity, and International Licensing</em>, Seminar, Bureau of Economic Analysis, U.S. Department of Commerce, Washington, D.C., May 2015",
-      "search": "patent protection, industry complexity, and international licensing , seminar, bureau of economic analysis, u.s. department of commerce, washington, d.c., may 2015",
+      "html": "<em>Patent Protection, Industry Complexity, and International Licensing</em>, Seminar, Bureau of Economic Analysis, U.S. Department of Commerce, Washington, D.C., May 2015 <a href=\"assets/documents/BEA Presentation May2015.pdf\" target=\"_blank\">Slides</a>",
+      "search": "patent protection, industry complexity, and international licensing , seminar, bureau of economic analysis, u.s. department of commerce, washington, d.c., may 2015 slides",
       "order": 34
     },
     {
@@ -987,7 +987,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2012,
-      "html": "<em>Trips-Plus Provisions in Free-Trade Agreements (FTAs)</em>, Trans-Pacific Partnership Meetings, Dallas, TX, luncheon hosted by Public Citizen, May 2012 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>Trips-Plus Provisions in Free-Trade Agreements (FTAs)</em>, Trans-Pacific Partnership Meetings, Dallas, TX, luncheon hosted by Public Citizen, May 2012 <a href=\"assets/documents/TPP Talk_WPark.pdf\" target=\"_blank\">Slides</a>",
       "search": "trips-plus provisions in free-trade agreements (ftas) , trans-pacific partnership meetings, dallas, tx, luncheon hosted by public citizen, may 2012 slides",
       "order": 49
     },
@@ -1003,7 +1003,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2011,
-      "html": "<em>International Technology Transfer and Innovation</em>, Conference on the Knowledge Economy and Role of Intellectual Property Rights, Cairo, Egypt, co-sponsored by the Egyptian Ministry of Higher Education and Scientific Research and World Intellectual Property Organization, November 2011 <span class=\"file-unavailable\" title=\"This file was not included\">Slides 1</span> <span class=\"file-unavailable\" title=\"This file was not included\">Slides 2</span>",
+      "html": "<em>International Technology Transfer and Innovation</em>, Conference on the Knowledge Economy and Role of Intellectual Property Rights, Cairo, Egypt, co-sponsored by the Egyptian Ministry of Higher Education and Scientific Research and World Intellectual Property Organization, November 2011 <a href=\"assets/documents/WGPark Presentation I.pdf\" target=\"_blank\">Slides 1</a> <a href=\"assets/documents/WGPark Presentation II.pdf\" target=\"_blank\">Slides 2</a>",
       "search": "international technology transfer and innovation , conference on the knowledge economy and role of intellectual property rights, cairo, egypt, co-sponsored by the egyptian ministry of higher education and scientific research and world intellectual property organization, november 2011 slides 1 slides 2",
       "order": 51
     },
@@ -1019,7 +1019,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2011,
-      "html": "<em>Exports and Licensing: Impact of Patent Rights</em>, Science and Technology Policy Institute, Seoul, Korea, August 2011 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>Exports and Licensing: Impact of Patent Rights</em>, Science and Technology Policy Institute, Seoul, Korea, August 2011 <a href=\"assets/documents/STEPI Presentation.pdf\" target=\"_blank\">Slides</a>",
       "search": "exports and licensing: impact of patent rights , science and technology policy institute, seoul, korea, august 2011 slides",
       "order": 53
     },
@@ -1027,7 +1027,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2010,
-      "html": "<em>Intellectual Property Rights (IPRs) and China</em>, U.S. International Trade Commission, Washington, D.C., November 2010 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>Intellectual Property Rights (IPRs) and China</em>, U.S. International Trade Commission, Washington, D.C., November 2010 <a href=\"assets/documents/IPR China.pdf\" target=\"_blank\">Slides</a>",
       "search": "intellectual property rights (iprs) and china , u.s. international trade commission, washington, d.c., november 2010 slides",
       "order": 54
     },
@@ -1035,7 +1035,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2010,
-      "html": "<em>International Offshoring of R&D</em>, American Society for Competitiveness, Vienna, Virginia, October 2010 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>International Offshoring of R&D</em>, American Society for Competitiveness, Vienna, Virginia, October 2010 <a href=\"assets/documents/RD Offshore.pdf\" target=\"_blank\">Slides</a>",
       "search": "international offshoring of r&d , american society for competitiveness, vienna, virginia, october 2010 slides",
       "order": 55
     },
@@ -1067,7 +1067,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2007,
-      "html": "<em>IPRs and Economic Development</em>, Conference on Entrepreneurship, National Innovation Strategy, Organization for Economic Cooperation and Development (OECD), Paris, France, November 2007 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>IPRs and Economic Development</em>, Conference on Entrepreneurship, National Innovation Strategy, Organization for Economic Cooperation and Development (OECD), Paris, France, November 2007 <a href=\"assets/documents/IPP Park Nov07.pdf\" target=\"_blank\">Slides</a>",
       "search": "iprs and economic development , conference on entrepreneurship, national innovation strategy, organization for economic cooperation and development (oecd), paris, france, november 2007 slides",
       "order": 59
     },
@@ -1091,7 +1091,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2005,
-      "html": "<em>Open Source and Biotechnology</em>, Center for Intellectual Property Policy (CIPP) Workshop, Florence, Italy, October 2005 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>Open Source and Biotechnology</em>, Center for Intellectual Property Policy (CIPP) Workshop, Florence, Italy, October 2005 <a href=\"assets/documents/Open Development.pdf\" target=\"_blank\">Slides</a>",
       "search": "open source and biotechnology , center for intellectual property policy (cipp) workshop, florence, italy, october 2005 slides",
       "order": 62
     },
@@ -1099,7 +1099,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2005,
-      "html": "<em>International Technology Transfer and Intellectual Property Rights</em>, Association of University Technology Managers (AUTM) Annual Meeting, Annapolis, MD, Plenary Session, June 2005 <span class=\"file-unavailable\" title=\"This file was not included\">Slides</span>",
+      "html": "<em>International Technology Transfer and Intellectual Property Rights</em>, Association of University Technology Managers (AUTM) Annual Meeting, Annapolis, MD, Plenary Session, June 2005 <a href=\"assets/documents/IntlLic_IPR.pdf\" target=\"_blank\">Slides</a>",
       "search": "international technology transfer and intellectual property rights , association of university technology managers (autm) annual meeting, annapolis, md, plenary session, june 2005 slides",
       "order": 63
     },
@@ -1107,7 +1107,7 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2004,
-      "html": "<em>International Patenting Models and Forecasts of Filings at the EPO</em>, European Patent Office Seminar, Munich Germany, December 2004 <span class=\"file-unavailable\" title=\"This file was not included\">Handout</span>",
+      "html": "<em>International Patenting Models and Forecasts of Filings at the EPO</em>, European Patent Office Seminar, Munich Germany, December 2004 <a href=\"assets/documents/EPO Dec04.pdf\" target=\"_blank\">Handout</a>",
       "search": "international patenting models and forecasts of filings at the epo , european patent office seminar, munich germany, december 2004 handout",
       "order": 64
     },
@@ -1339,7 +1339,7 @@ window.WGP_RESEARCH = {
       "category": "working",
       "categoryLabel": "Works in Progress and Other",
       "year": null,
-      "html": "Indexes of International Copyright and Trademark Protection <a href=\"assets/documents/intl copyright.xlsx\" target=\"_blank\">Data on Copy</a>; <span class=\"file-unavailable\" title=\"This file was not included\">Data on Tmark</span> [Co-author: Tad Reynolds]",
+      "html": "Indexes of International Copyright and Trademark Protection <a href=\"assets/documents/intl copyright.xlsx\" target=\"_blank\">Data on Copy</a>; <a href=\"assets/documents/intl tmark_copy.xlsx\" target=\"_blank\">Data on Tmark</a> [Co-author: Tad Reynolds]",
       "search": "indexes of international copyright and trademark protection data on copy ; data on tmark [co-author: tad reynolds]",
       "order": 5
     },
@@ -1368,6 +1368,6 @@ window.WGP_RESEARCH = {
       "order": 8
     }
   ],
-  "documentCount": 110,
-  "unavailableLinkCount": 22
+  "documentCount": 132,
+  "unavailableLinkCount": 0
 };
