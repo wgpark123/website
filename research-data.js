@@ -122,7 +122,7 @@ window.WGP_RESEARCH = {
       "category": "articles",
       "categoryLabel": "Articles",
       "year": 2016,
-      "html": "<span class=\"file-unavailable\" title=\"This file was not included\"> Intellectual Property Protection and the Industrial Composition of Multinational Activity</span>, <em>Economic Inquiry</em>, Vol. 54, Issue 2, April 2016, pp. 1068 - 1085. [Co-authors: Olena Ivus and Kamal Saggi]",
+      "html": "<a href=\"assets/documents/IPS ecin12314.pdf\" target=\"_blank\"> Intellectual Property Protection and the Industrial Composition of Multinational Activity</a>, <em>Economic Inquiry</em>, Vol. 54, Issue 2, April 2016, pp. 1068 - 1085. [Co-authors: Olena Ivus and Kamal Saggi]",
       "search": "intellectual property protection and the industrial composition of multinational activity , economic inquiry , vol. 54, issue 2, april 2016, pp. 1068 - 1085. [co-authors: olena ivus and kamal saggi]",
       "order": 11
     },
@@ -1368,6 +1368,6 @@ window.WGP_RESEARCH = {
       "order": 8
     }
   ],
-  "documentCount": 109,
-  "unavailableLinkCount": 23
+  "documentCount": 110,
+  "unavailableLinkCount": 22
 };
