@@ -8,7 +8,8 @@ window.WGP_RESEARCH = {
       "html": "<a href=\"assets/documents/patent index1960 - 2015 rev.xlsx\" target=\"_blank\">International Patent Protection Index, 1960-2015</a> (Excel). Overall index and its components: coverage, membership in international treaties, loss of rights, duration, and enforcement.",
       "search": "international patent protection index 1960-2015 data excel coverage membership loss of rights duration enforcement",
       "order": 0,
-      "featured": true
+      "featured": true,
+      "homeOnly": true
     },
     {
       "category": "books",
@@ -1339,7 +1340,7 @@ window.WGP_RESEARCH = {
       "category": "working",
       "categoryLabel": "Works in Progress and Other",
       "year": null,
-      "html": "Indexes of International Copyright and Trademark Protection <a href=\"assets/documents/intl copyright.xlsx\" target=\"_blank\">Data on Copy</a>; <a href=\"assets/documents/intl tmark_copy.xlsx\" target=\"_blank\">Data on Tmark</a> [Co-author: Tad Reynolds]",
+      "html": "Indexes of International Copyright and Trademark Protection <a href=\"assets/documents/intl copyright.xlsx\" target=\"_blank\">Data on Copy</a>; <a href=\"assets/documents/intl tmark.xlsx\" target=\"_blank\">Data on Tmark</a> [Co-author: Tad Reynolds]",
       "search": "indexes of international copyright and trademark protection data on copy ; data on tmark [co-author: tad reynolds]",
       "order": 5
     },
@@ -1363,11 +1364,11 @@ window.WGP_RESEARCH = {
       "category": "working",
       "categoryLabel": "Works in Progress and Other",
       "year": null,
-      "html": "Real Options in Patenting [Co-authors: Andrew Toole and Gerard Torres]",
-      "search": "real options in patenting [co-authors: andrew toole and gerard torres]",
+      "html": "Real Options in Patenting: Uncertainty and Secondary Patent Markets <a href=\"assets/documents/real options ssrn-5143769.pdf\" target=\"_blank\">Draft</a> [Co-authors: Gerard Torres, Andrew Toole, and Ryan Hughes]",
+      "search": "real options in patenting: uncertainty and secondary patent markets draft [co-authors: gerard torres, andrew toole, and ryan hughes]",
       "order": 8
     }
   ],
-  "documentCount": 132,
+  "documentCount": 133,
   "unavailableLinkCount": 0
 };

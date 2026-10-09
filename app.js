@@ -45,6 +45,7 @@
     const query = document.getElementById("publication-search").value.trim().toLowerCase();
     const matches = data.filter((entry) =>
       publicationCategories.has(entry.category) &&
+      !entry.homeOnly &&
       (publicationFilter === "all" || entry.category === publicationFilter) &&
       (!query || entry.search.includes(query))
     );
@@ -83,7 +84,7 @@
       <p>${entry.html}</p>
     </article>`).join("");
 
-  document.getElementById("publication-count").textContent = data.filter((entry) => publicationCategories.has(entry.category)).length;
+  document.getElementById("publication-count").textContent = data.filter((entry) => publicationCategories.has(entry.category) && !entry.homeOnly).length;
   document.getElementById("presentation-count").textContent = data.filter((entry) => entry.category === "presentations").length;
   document.getElementById("project-count").textContent = data.filter((entry) => entry.category === "projects").length;
   document.getElementById("current-year").textContent = new Date().getFullYear();
