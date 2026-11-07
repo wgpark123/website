@@ -386,6 +386,14 @@ window.WGP_RESEARCH = {
     {
       "category": "chapters",
       "categoryLabel": "Book Chapters",
+      "year": 2027,
+      "html": "<a href=\"assets/documents/GVC_Pharm_IPR.pdf\" target=\"_blank\"> Global Value Chains, Intellectual Property, and Knowledge Diffusion in Pharmaceuticals: Rethinking the TRIPS Waiver Debate</a>, in J. Barnett, B. Heiden, and M. Kyle (eds.),<em> Competing for the Cure: Intellectual Property, Innovation Policy, and Competitiveness in Biopharmaceutical Ecosystems</em>, Cambridge University Press, 2027. [Co-author: Olena Ivus]",
+      "search": "global value chains, intellectual property, and knowledge diffusion in pharmaceuticals: rethinking the trips waiver debate , in j. barnett, b. heiden, and m. kyle (eds.), competing for the cure: intellectual property, innovation policy, and competitiveness in biopharmaceutical ecosystems , cambridge university press, 2027. [co-author: olena ivus]",
+      "order": 0
+    },
+    {
+      "category": "chapters",
+      "categoryLabel": "Book Chapters",
       "year": 2022,
       "html": "<a href=\"assets/documents/innov_covid_19.pdf\" target=\"_blank\"> Immunity to the COVID-19 Shock? The case of U.S. innovation</a>, in Carsten Fink et al. (eds.),<em> Resilience and Ingenuity: Global Innovation Responses to Covid-19</em>, Center for Economic Policy Research (CEPR), U.K., 2022. [Co-authors: Andrew Toole, Gerard Torres, Richard Miller]",
       "search": "immunity to the covid-19 shock? the case of u.s. innovation , in carsten fink et al. (eds.), resilience and ingenuity: global innovation responses to covid-19 , center for economic policy research (cepr), u.k., 2022. [co-authors: andrew toole, gerard torres, richard miller]",
