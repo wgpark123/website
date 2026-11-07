@@ -588,6 +588,14 @@ window.WGP_RESEARCH = {
       "category": "presentations",
       "categoryLabel": "Presentations",
       "year": 2026,
+      "html": "<em>Global Value Chains, Intellectual Property, and Knowledge Diffusion in Pharmaceuticals: Rethinking the TRIPS Waiver Debate</em>, Presentation at the EIRA Conference, Paris, France, October 30, 2026. <a href=\"assets/documents/Rethinking_the_TRIPS_Waiver.pdf\" target=\"_blank\">Slides</a>",
+      "search": "global value chains, intellectual property, and knowledge diffusion in pharmaceuticals: rethinking the trips waiver debate, presentation at the eira conference, paris, france, october 30, 2026. slides",
+      "order": 0
+    },
+    {
+      "category": "presentations",
+      "categoryLabel": "Presentations",
+      "year": 2026,
       "html": "<em>Merchants of AI: Are They Overvalued?</em> Presentation at the AU Kogod Business AI Research Conference, Washington, D.C., February 19, 2026. Revised for the AEA Summer Program, June 20, 2026. <a href=\"assets/documents/AI_Tech_Bubble.pdf\" target=\"_blank\">Slides</a>",
       "search": "merchants of ai: are they overvalued? presentation at the au kogod business ai research conference, washington, d.c., february 19, 2026. revised for the aea summer program, june 20, 2026. slides",
       "order": 0
