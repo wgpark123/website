@@ -387,7 +387,7 @@ window.WGP_RESEARCH = {
       "category": "chapters",
       "categoryLabel": "Book Chapters",
       "year": 2027,
-      "html": "<a href=\"assets/documents/GVC_Pharm_IPR.pdf\" target=\"_blank\"> Global Value Chains, Intellectual Property, and Knowledge Diffusion in Pharmaceuticals: Rethinking the TRIPS Waiver Debate</a>, in J. Barnett, B. Heiden, and M. Kyle (eds.),<em> Competing for the Cure: Intellectual Property, Innovation Policy, and Competitiveness in Biopharmaceutical Ecosystems</em>, Cambridge University Press, 2027. [Co-author: Olena Ivus]",
+      "html": "<a href=\"assets/documents/GVC_Pharm_IPR_rev.pdf\" target=\"_blank\"> Global Value Chains, Intellectual Property, and Knowledge Diffusion in Pharmaceuticals: Rethinking the TRIPS Waiver Debate</a>, in J. Barnett, B. Heiden, and M. Kyle (eds.),<em> Competing for the Cure: Intellectual Property, Innovation Policy, and Competitiveness in Biopharmaceutical Ecosystems</em>, Cambridge University Press, 2027. [Co-author: Olena Ivus]",
       "search": "global value chains, intellectual property, and knowledge diffusion in pharmaceuticals: rethinking the trips waiver debate , in j. barnett, b. heiden, and m. kyle (eds.), competing for the cure: intellectual property, innovation policy, and competitiveness in biopharmaceutical ecosystems , cambridge university press, 2027. [co-author: olena ivus]",
       "order": 0
     },
